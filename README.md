@@ -23,7 +23,7 @@
 # How To Deploy
 
 ### For first time only !
-- `git clone https://github.com/refactorian/laravel-docker.git`
+- `git clone https://github.com/jsbinh/laravel-docker.git`
 - `cd laravel-docker`
 - `docker compose up -d --build`
 - `docker compose exec php bash`
@@ -35,8 +35,8 @@
 # Notes
 
 ### Laravel Versions
-- [Laravel 11.x](https://github.com/refactorian/laravel-docker/tree/main)
-- [Laravel 10.x](https://github.com/refactorian/laravel-docker/tree/laravel_10x)
+- [Laravel 11.x](https://github.com/jsbinh/laravel-docker/tree/main)
+- [Laravel 10.x](https://github.com/jsbinh/laravel-docker/tree/laravel_10x)
 
 ### Laravel App
 - URL: http://localhost
@@ -155,22 +155,6 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
 
 ## Contributing
 
