@@ -13,6 +13,10 @@ Route::get('/user', function (Request $request) {
 Route::post('register', [RegisterController::class, 'register']);
 Route::post('login', [RegisterController::class, 'login']);
 
+Route::get('/health', function () {
+    echo 'OK';
+});
+
 Route::middleware('auth:api')->group( function () {
     Route::resource('products', ProductController::class);
 });
